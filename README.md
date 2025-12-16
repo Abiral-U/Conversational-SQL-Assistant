@@ -74,7 +74,7 @@ Free and experimental models are supported depending on availability.
 ---
 
 ## Project Structure
-|
+.
 ├── app.py # Main Streamlit application
 ├── chroma_storage/ # Persistent Chroma vector database
 ├── uploaded_docs/ # Uploaded documents
