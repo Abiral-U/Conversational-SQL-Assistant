@@ -74,11 +74,11 @@ Free and experimental models are supported depending on availability.
 ---
 
 ## Project Structure
-├── app.py # Main Streamlit application
-├── chroma_storage/ # Persistent Chroma vector database
-├── uploaded_docs/ # Uploaded documents
-├── chat_history.json # Persistent chat history
-├── requirements.txt
+├── app.py # Main Streamlit application </br>
+├── chroma_storage/ # Persistent Chroma vector database </br>
+├── uploaded_docs/ # Uploaded documents </br>
+├── chat_history.json # Persistent chat history </br>
+├── requirements.txt </br>
 └── README.md
 
 
