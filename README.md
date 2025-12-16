@@ -74,6 +74,7 @@ Free and experimental models are supported depending on availability.
 ---
 
 ## Project Structure
+```
 .
 |-- app.py # Main Streamlit application
 |-- chroma_storage/ # Persistent Chroma vector database
@@ -81,7 +82,7 @@ Free and experimental models are supported depending on availability.
 |-- chat_history.json # Persistent chat history
 |-- requirements.txt
 ` README.md
-
+```
 
 ## Installation
 
